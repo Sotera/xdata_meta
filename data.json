@@ -459,7 +459,7 @@
     "XData Team":"Sotera Defense Solutions, Inc.",
     "Software":"Louvain Modularity",
     "Internal Link":"https://xd-wiki.xdata.data-tactics-corp.com:8443/display/ANL/Sotera+Defense+Systems+-+Goals+and+Analytics",
-    "External Link":"https://github.com/Sotera/distributed-louvain-modularity",
+    "External Link":"http://sotera.github.io/distributed-louvain-modularity/",
     "Public Code Repo":"https://github.com/Sotera/distributed-louvain-modularity.git",
     "Stats":"distributed-louvain-modularity",
     "Characteristics of the Software (what software does)":"Giraph/Hadoop implementation of a distributed version of the Louvain community detection algorithm.",
