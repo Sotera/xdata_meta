@@ -332,9 +332,14 @@
         "Link": "To appear", 
         "Title": "Advanced Machine Learning and Statistical Inference Approaches for Big Data Analytics and Information Fusion"
     }, 
+	{
+        "XData Teams": ["Sotera Defense Solutions, Inc."], 
+        "Link": "http://sotera.github.io/papers/Benchmarks_Whitepaper.pdf", 
+        "Title": "A Survey of Big Data Methods, Assessments, and Approaches"
+    }, 
     {
         "XData Teams": ["Sotera Defense Solutions, Inc."], 
-        "Link": "To appear", 
+        "Link": "http://sotera.github.io/papers/PairwiseCorrelation_LarsonLossauWalsh_NSSDF_Paper.pdf", 
         "Title": "Correlation Using Pair-wise Combinations of Multiple Data Sources and Dimensions at Ultra-Large Scales"
     }, 
     {
